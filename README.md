@@ -1,0 +1,1 @@
+This repository documents my web security learning journey, focusing on practical skills, hands-on labs, CTF challenges, and security-related projects. It tracks my learning progress, techniques I have practiced, tools I have used, and projects I have developed for educational purposes.
